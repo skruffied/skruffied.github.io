@@ -1,14 +1,23 @@
 body {
-    font-family: "Poppins", sans-serif;
-    background-color: #f0f0f0;
+    font-family: "Poppins", sans-serif !important;
     text-align: center;
+    background-color: rgb(25, 18, 26);
 }
 
 .header {
     text-align: center;
     font-size: 54px;
+    
 }
 
 .text {
     font-size: 24px;
+}
+
+.darkbg {
+    background-color: rgb(36, 36, 36);
+}
+
+.borderblack {
+    border: black; border-width: 12px;
 }
